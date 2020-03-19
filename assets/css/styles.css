@@ -166,6 +166,10 @@ a.nav-link {
   width: 200px;
   margin: 0 20px 10px 0;
 }
+
+.btn-dark {
+  background-color: #414141;
+}
 /* END ABOUT-ME PAGE */
 
 
@@ -196,7 +200,7 @@ a.nav-link {
   color: #fff;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #414141;
   border: 0;
 }
 
