@@ -8,6 +8,6 @@ https://github.com/fmiusov/portfolio
 
 ## Gallery:
 
-!(assets/imgs/AboutMe.PNG)
-!(assets/imgs/contact.PNG)
-!(assets/imgs/portfolio.PNG)
+![AboutMe](/assets/imgs/AboutMe.PNG)
+![Contact](/assets/imgs/contact.PNG)
+![Portfolio](/assets/imgs/portfolio.PNG)
