@@ -192,6 +192,31 @@ a.nav-link {
   border: solid;
   border-color: #056571;
   border-width: 1px;
+  margin-bottom: 10px;
+}
+#border3 {
+  border: solid;
+  border-color: #056571;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+#border4 {
+  border: solid;
+  border-color: #056571;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+#border5 {
+  border: solid;
+  border-color: #056571;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+#border6 {
+  border: solid;
+  border-color: #056571;
+  border-width: 1px;
+  
 }
 
 /* END PORTFOLIO PAGE */
